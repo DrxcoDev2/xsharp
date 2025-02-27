@@ -1,2 +1,2 @@
 # Xsharp
-<img src="/docs/Proyecto nuevo.png/>
+<img src="/docs/Proyecto nuevo.png"/>
