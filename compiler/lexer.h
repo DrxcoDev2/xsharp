@@ -11,7 +11,8 @@ typedef enum {
     TOKEN_STD,
     TOKEN_PRINT,
     TOKEN_UNKNOWN,
-    TOKEN_STRING
+    TOKEN_STRING,
+    TOKEN_INPUT
 } TokenType;
 
 typedef struct {
