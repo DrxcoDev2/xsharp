@@ -10,7 +10,8 @@ typedef enum {
     TOKEN_USE,
     TOKEN_STD,
     TOKEN_PRINT,
-    TOKEN_UNKNOWN
+    TOKEN_UNKNOWN,
+    TOKEN_STRING
 } TokenType;
 
 typedef struct {
